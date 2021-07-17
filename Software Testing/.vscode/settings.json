@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "STLAB1.C": "cpp",
+        "STLAB2.C": "cpp",
+        "STLAB3.C": "cpp",
+        "STLAB9.C": "cpp",
+        "STLAB5.C": "cpp",
+        "STLAB8.C": "cpp",
+        "STLAB12.C": "cpp",
+        "STLAB11.C": "cpp",
+        "STLAB33.C": "cpp",
+        "NextdateBoundaryvalue.C": "cpp",
+        "AbsoluteGrader.C": "cpp"
+    }
+}
