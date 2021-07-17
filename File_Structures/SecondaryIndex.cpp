@@ -1,4 +1,5 @@
 //VIMAL KHATRI COPYRIGHTED CODE
+//Program 6
 #include<iostream>
 #include<fstream>
 #include<stdlib.h>
