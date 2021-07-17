@@ -1,0 +1,30 @@
+<!-- vimal 1CR18IS171 COPYRIGHTED CODE-->
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="file.css"?>
+<students>
+<header> STUDENTS DESCRIPTION</header>
+<student1>
+<USN> 1CR18IS171    </USN>
+<name>  VIMAL KHATRI  </name>
+<college> CMRIT   </college>
+<branch>    ISE   </branch>
+<yoj>   2018    </yoj>
+<mail> vimal18is@cmrit.ac.in </mail>
+</student1>
+<student2>
+<USN> 1CR17CS109    </USN>
+<name>  LUCIAN FOX  </name>
+<college> CMRIT   </college>
+<branch>    CSE   </branch>
+<yoj>   2017    </yoj>
+<mail> lucian17cs@cmrit.ac.in </mail>
+</student2>
+<student3>
+<USN> 1CR18EE111   </USN>
+<name>  KING JAMES  </name>
+<college> CMRIT   </college>
+<branch>    EEE   </branch>
+<yoj>   2018    </yoj>
+<mail> james18ee@cmrit.ac.in </mail>
+</student3>
+</students>

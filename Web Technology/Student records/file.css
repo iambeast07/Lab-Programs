@@ -1,0 +1,38 @@
+/* VIMAL KHATRI 1CR18IS171 COPYRIGHTED CODE*/
+USN{
+    
+    display: block;
+    margin-left: 5px;    
+    font-size: 20pt;
+    color: brown;
+}
+name{
+    display: block;
+    margin-left: 5px;    
+    font-size: 25pt;
+    color: royalblue;
+}
+college{
+    display: block;
+    margin-left: 5px;    
+    font-size: 15pt;
+    color: goldenrod;
+}
+branch{
+    display: block;
+    margin-left: 5px;    
+    font-size: 17pt;
+    color:green;
+}
+yoj{
+    display: block;
+    margin-left: 5px;    
+    font-size: 15pt;
+    color:blueviolet;
+}
+mail{
+    display: block;
+    margin-left: 5px;    
+    font-size: 17pt;
+    color:red
+}

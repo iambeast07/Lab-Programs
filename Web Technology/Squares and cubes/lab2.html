@@ -1,0 +1,31 @@
+<html>   <!--CODED BY VIMAL KHATRI 1CR18IS171 COPYRIGHTED CODE-->
+    <head>
+        <style>
+            table,tr,td
+            {
+                
+                border:solid rgb(128, 77, 0);
+                width: 40%;
+                text-align: center;
+                border-collapse: collapse;
+                background-color: rgb(0, 255, 200);
+                
+            }
+            table{
+                margin: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <script>
+            document.write("<table><tr><th colspan='5'> SQUARES AND CUBES OF NUMBERS FROM 0 TO 10</th></tr> ");
+            document.write("<tr><td>NUMBER</td><td>SQUARE</td><td>CUBE</td></tr>");
+            for(var n=0; n<=10;n++)
+            {
+                document.write("<tr><td>" + n + "</td><td>" + n*n + "</td><td>" +n*n*n+ "</td></tr>");
+            }
+            document.write("</table>");
+
+        </script>
+    </body>
+</html>
